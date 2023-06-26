@@ -1,0 +1,2 @@
+123456789,2002,Sanket,186882.0,Harshul Aurangabad,9423708829,sanket@gmail.com,C
+987654321,2004,Ajinkya,199000.0,Harshul Aurangabad,9423708829,ajinkya@gmail.com,A
